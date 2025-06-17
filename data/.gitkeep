@@ -1,0 +1,3 @@
+# This file ensures the data directory is tracked by git
+# JSON data files will be saved here and tracked in the repository
+# PDF files will be ignored via .gitignore 
