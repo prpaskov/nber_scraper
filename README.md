@@ -1,6 +1,6 @@
 # NBER Papers Scraper
 
-A simple Python script for scraping NBER working papers. Just edit a few settings and run!
+[[work in progress]] - a simple Python script for scraping NBER working papers. 
 
 ## Quick Start
 
